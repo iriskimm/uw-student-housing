@@ -6,7 +6,7 @@
 **Packages:** BeautifulSoup, Selenium, Pandas, Matplotlib, Numpy
 
 ## Web Scraping
-Scraped 250+ recent posts from the Facebook page [Waterloo Student Housing](https://www.facebook.com/groups/110354088989367). With each posting, I got the following:
+Scraped 250+ recent posts from the Facebook page [Student Housing in Waterloo](https://www.facebook.com/groups/110354088989367). With each posting, I got the following:
 *	Rent Price
 *	Number of bedrooms
 *	A boolean value that indicates whether the user is offering **or** looking for a place
