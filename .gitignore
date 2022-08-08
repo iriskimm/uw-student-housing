@@ -131,4 +131,4 @@ dmypy.json
 # others
 config.py
 housing_list.xlsx
-~$housing_list.xlsx
+.DS_Store
