@@ -23,6 +23,6 @@ Utilized Selenium to scrape 250+ recent posts from the Facebook page [Student Ho
 I looked at the distributions of the data and difference in the average rent price depending on the number of total bedrooms. Below are a few highlights.
 <p text-align:'left'>
 <img src="Graphs/byBedroom.png" width=45%>
-<img src="Graphs/compare_searches_offers.png" width=45%>
+<img src="Graphs/supply_vs_demand.png" width=45%>
 </p>
 <img src="Graphs/compare_price_searches_offers.png" width=60%>
