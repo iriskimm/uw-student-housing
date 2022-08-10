@@ -26,3 +26,5 @@ I looked at the distributions of the data and difference in the average rent pri
 <img src="Graphs/supply_vs_demand.png" width=45%>
 </p>
 <img src="Graphs/compare_price_searches_offers.png" width=60%>
+
+Significantly, we observe a high-volume demand which explains the current Student Housing crisis in Waterloo. It is also important to note that the number of total bedrooms have a negative correlation with rent price. 
